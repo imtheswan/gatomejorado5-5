@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GatoMejorado</string>
+    <string name="empty"> </string>
+    <string name="jugador1">Jugador 1</string>
+    <string name="jugador2">Jugador 2</string>
+    <string name="o">O</string>
+    <string name="x">X</string>
+    <string name="turno">Turno: </string>
+    <string name="empate">Empate</string>
+    <string name="ganaste">Ganaste</string>
+    <string name="perdiste">Perdiste</string>
+    <string name="reiniciar">Reiniciar Juego</string>
+</resources>
